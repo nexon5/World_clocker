@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/World_clocker/static/css/main.d1a520a5.css",
+    "main.js": "/World_clocker/static/js/main.9b7c8452.js",
+    "index.html": "/World_clocker/index.html",
+    "main.d1a520a5.css.map": "/World_clocker/static/css/main.d1a520a5.css.map",
+    "main.9b7c8452.js.map": "/World_clocker/static/js/main.9b7c8452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a520a5.css",
+    "static/js/main.9b7c8452.js"
+  ]
+}
